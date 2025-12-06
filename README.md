@@ -6,6 +6,7 @@ para el modelo de *data stream*. El objetivo es estimar operaciones de `rank(x)`
 `quantile(ϕ)` sobre flujos de datos grandes usando espacio sublineal.
 
 ## Estructura del proyecto
+Para que el proyecto funcione correctamente debe tener esta estructura, con los datasets en la misma carpeta.
 
 ```text
 
